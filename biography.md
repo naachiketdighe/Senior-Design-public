@@ -21,7 +21,7 @@
 
 - Programming languages: Ajax, C#, C++, CSS, Java, JavaScript, Python, R, Ruby, Swift, Typescript
 - Tools: AWS EC2 S3, CocoaPods, Excel, Git, MySQL, Nginx, Node.JS, Postman, SQLite, Salesforce, Visual Studio Code
-= Frameworks: Angular, Axios, Cheerio, CocoaMQTT, Django, Express, Flask, React, Solid, SwiftUI, Tailwind
+- Frameworks: Angular, Axios, Cheerio, CocoaMQTT, Django, Express, Flask, React, Solid, SwiftUI, Tailwind
 
 ---
 
