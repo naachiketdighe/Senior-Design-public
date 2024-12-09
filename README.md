@@ -98,6 +98,9 @@ Descriptions of diagrams and conventions are missing and should be added as appl
   The CRM system must address potential vulnerabilities to ensure the integrity of the system. Threats such as data breaches, unauthorized access, and malicious attacks are mitigated by implementing robust encryption protocols, secure authentication mechanisms, and regular security testing. Special attention is given to safeguarding the system against eavesdropping and unauthorized data access.
 
 ---
+## Presentation
+
+[Download PPT](Design_Diagrams/ApresCleo_presentation.pptx)
 
 ## Self-Assessment Essays
 
