@@ -78,8 +78,7 @@ Descriptions of diagrams and conventions are missing and should be added as appl
 | Database Schema Design        | November 3       | Designed and implemented database schema for customer and team management. Populated sample data. | 8         |
 | Customer Management Module    | November 17      | Developed CRUD operations for customer profiles and validated/testing all features. | 10        |
 | Team Assignment Module        | December 1       | Implemented functionality to assign customers dynamically to team members.       | 8         |
-| Final Testing and Deployment  | December 8       | Conducted final tests, fixed bugs, and prepared the project for deployment.      | 7         |
-| **Total Hours**               |                  |                                                                                 | **55**    |
+| **Total Hours**               |                  |                                                                                 | **47**    |
 
 ---
 ---
